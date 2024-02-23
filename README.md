@@ -1,2 +1,2 @@
 # Emotion_detection
-A emotion detection in human faces with Convolutional Neural Network
+In this notebook I explain how to do a emotion detection model, to predict a emotion in a human face with face recognition and emotion detection.
